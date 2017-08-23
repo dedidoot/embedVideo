@@ -1,4 +1,6 @@
-# embedVideo
+# embedVideo 
+
+project ini adalah contoh embed video/mp3 youtube, vimeo dan soundcloud dengan menggunakan WebView
 
 
 
